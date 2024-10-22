@@ -2,8 +2,7 @@
 
 **Project Overview:**
 
-This sales dashboard is designed to provide a comprehensive overview of year-to-date performance across multiple markets and product categories. Built to enable strategic decision-making, the dashboard highlights key metrics such as sales, profit, and order quantity, along with market share distribution and customer acquisition trends. The dashboard serves as a vital tool for understanding both macro-level performance and granular category-based trends.
-
+This sales dashboard is designed to provide a comprehensive overview of year-to-date performance across multiple markets and product categories. Built to enable strategic decision-making, the dashboard highlights key metrics such as sales, profit, and order quantity, along with market share distribution and customer acquisition trends, helping to drive actionable insights.
 
 **Key Metrics and Insights:**
 
