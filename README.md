@@ -32,8 +32,6 @@ This sales dashboard is designed to provide a comprehensive overview of year-to-
 
 **Tableau:** Tableau was utilized to create an interactive and dynamic dashboard, allowing users to filter data by region, customer segment, and time period. The visualizations enable real-time decision-making with clear insights into sales performance.
 
-**Data Processing and Analysis:** Extensive data analysis was performed using profit margins, sales volume, and customer segmentation data. This detailed analysis allowed the identification of key growth markets and underperforming categories.
-
 **Advanced KPI Tracking:** By incorporating KPIs such as sales, profit, and order quantity, the dashboard provides a high-level summary of business performance. These KPIs are critical for management to monitor and adjust strategies in real-time.
 
 
